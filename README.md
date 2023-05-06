@@ -13,7 +13,7 @@
    - __OOP__
    - __Design pattern__
        - __Fundamental patterns__  
-           - Property container  
+           > Property container  
        - __Creational patterns__  
            - Simple Factory, Factory Method, Abstract Factory, Builder, Prototype  
            - Singleton,  
