@@ -4,7 +4,7 @@
    - PHP7.4/8
    - OOP
    - Design pattern
-       - _Creational patterns_  
+       - __Creational patterns__  
        - Structural patterns  
        - Behavioral patterns  
        - Factory
