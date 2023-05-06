@@ -15,12 +15,12 @@
        - __Fundamental patterns__  
            > Property container  
        - __Creational patterns__  
-           - Simple Factory, Factory Method, Abstract Factory, Builder, Prototype  
-           - Singleton,  
+           > Simple Factory, Factory Method, Abstract Factory, Builder, Prototype  
+           > Singleton,  
        - __Structural patterns__  
-           - Adapter, Bridge, Decorator, Facade, Proxi
+           > Adapter, Bridge, Decorator, Facade, Proxi
        - __Behavioral patterns__  
-           - Chain of responsibility, Template method, Observer
+           > Chain of responsibility, Template method, Observer
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
 ---
