@@ -3,7 +3,7 @@
 - I am a programmer. Main programming language - PHP. In the latest projects I use standards SOLID.
    - PHP7.4/8
    - OOP
-   - Design pattern
+   - __Design pattern__
        - __Creational patterns__  
        - Structural patterns  
        - Behavioral patterns  
