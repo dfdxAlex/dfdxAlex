@@ -4,6 +4,9 @@
    - PHP7.4/8
    - OOP
    - Design pattern
+       #### - Creational patterns  
+       - Structural patterns  
+       - Behavioral patterns  
        - Factory
           - Simple Factory
           - Factory Method
