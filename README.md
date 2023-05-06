@@ -1,8 +1,8 @@
 ### :man_technologist: About Me :
 - I live in Wroclaw, Poland. 
 - I am a programmer. Main programming language - PHP. In the latest projects I use standards SOLID.
-   - PHP7.4/8
-   - OOP
+   - __PHP7.4/8__
+   - __OOP__
    - __Design pattern__
        - __Creational patterns__  
        - Structural patterns  
