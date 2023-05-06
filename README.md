@@ -26,15 +26,9 @@
 ---
 - At the same time, I study frontend technologies. In the frontend I use technologies:  
    - HTML5+API  
-      - Forms  
-      - Canvas  
-      - Drag&Drop  
-      - Web Storage  
-      - Geolocation  
+      > Forms, Canvas, Drag&Drop, Web Storage, Geolocation
    - CSS3  
    - JavaScript  
-      - DOM  
-      - jQuery  
-      - Bootstrap  
+      > DOM, jQuery, Bootstrap
 
 ***
