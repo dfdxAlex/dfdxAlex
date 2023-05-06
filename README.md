@@ -13,9 +13,9 @@
            - Adapter, Bridge, Decorator, Facade, Proxi
        - __Behavioral patterns__  
            - Chain of responsibility, Template method, Observer
----
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
+---
 - At the same time, I study frontend technologies. In the frontend I use technologies:  
    - HTML5+API  
       - Forms  
