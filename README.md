@@ -5,15 +5,12 @@
    - __OOP__
    - __Design pattern__
        - __Creational patterns__  
-       - Structural patterns  
-       - Behavioral patterns  
-       - Factory
-          - Simple Factory
-          - Factory Method
-          - Abstract Factory
-       - Builder  
+           - Simple Factory, Factory Method, Abstract Factory, Builder, Prototype  
+       - __Structural patterns__  
+       - __Behavioral patterns__  
+       -  
        - Singleton  
-       - Prototype  
+       -   
        - Adapter  
        - Bridge  
        - Decorator  
