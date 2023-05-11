@@ -39,6 +39,6 @@
 
 ### :man_technologist: Completed courses on udemy :   
  - [Design patterns][designpatterns]
- - [FullJavaScriptcourse](Full JavaScript course)  
- - [ExpresscourseCSSGrid](Express course CSS Grid)
+ - [Full JavaScript course][FullJavaScriptcourse] 
+ - [Express course CSS Grid][ExpresscourseCSSGrid]
 
