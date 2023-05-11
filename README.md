@@ -38,7 +38,7 @@
 [ExpresscourseCSSGrid]:https://www.udemy.com/share/102CF93@okJwu0r6VEHip_HDkKiEaAd_6K3zuXEE_6zkT3BUf_-KdSdWYJ76xhlqU8lTMPM0QQ==/
 
 ### :man_technologist: Completed courses on udemy :   
- - [designpatterns](Design patterns)  
+ - [Design patterns][designpatterns]
  - [FullJavaScriptcourse](Full JavaScript course)  
  - [ExpresscourseCSSGrid](Express course CSS Grid)
 
