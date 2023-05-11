@@ -37,6 +37,12 @@
 [FullJavaScriptcourse]:https://www.udemy.com/share/107AvU3@qA145oOEug7wYNaPr_zIoi18d-mBPmxeMiwOn9vyF-ZPN0eAnaJlm26CEFnbULikYQ==/
 [ExpresscourseCSSGrid]:https://www.udemy.com/share/102CF93@okJwu0r6VEHip_HDkKiEaAd_6K3zuXEE_6zkT3BUf_-KdSdWYJ76xhlqU8lTMPM0QQ==/
 
+[GITBasics]:https://www.udemy.com/share/105ItI3@4kyoO3pP6Fh4PF_DcOn0BlmJ73-9i1gOBdWlrOsg8IsRNMy0RuCdofYVqvMLKRZruA==/
+
+[Designpatternstutorial]:https://www.udemy.com/share/1059Rj3@7ZnDVFjedwjv6cez8yWnlWuNd0Tamuw5nIrxol6Ufco_1e-rG2e08mwTmPDk1lrATw==/
+
+[FullStackfromzerotoprofessional]:https://www.udemy.com/share/101vfE3@3EJkDPwW78ZGK0cSTGba65o1g_GHvHhCKRZr9V_l3UsWIPWXRTftvgyNhNepnaIFFQ==/
+
 ### :man_technologist: Full-time schools :
  - IT technician  
 
@@ -47,4 +53,10 @@
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
+
+### :man_technologist: Courses in progress on udemy :   
+ - [GIT Basics][GITBasics]
+ - [Design patterns tutorial][Designpatternstutorial] 
+ - [Full Stack from zero to professional][FullStackfromzerotoprofessional]
+
 
