@@ -37,6 +37,11 @@
 [FullJavaScriptcourse]:https://www.udemy.com/share/107AvU3@qA145oOEug7wYNaPr_zIoi18d-mBPmxeMiwOn9vyF-ZPN0eAnaJlm26CEFnbULikYQ==/
 [ExpresscourseCSSGrid]:https://www.udemy.com/share/102CF93@okJwu0r6VEHip_HDkKiEaAd_6K3zuXEE_6zkT3BUf_-KdSdWYJ76xhlqU8lTMPM0QQ==/
 
+### :man_technologist: Completed courses on udemy :
+ - IT technician  
+ - Manual Testing (skillUp)
+
+
 ### :man_technologist: Completed courses on udemy :   
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
