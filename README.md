@@ -43,18 +43,18 @@
 
 [FullStackfromzerotoprofessional]:https://www.udemy.com/share/101vfE3@3EJkDPwW78ZGK0cSTGba65o1g_GHvHhCKRZr9V_l3UsWIPWXRTftvgyNhNepnaIFFQ==/
 
-### :man_technologist: Full-time schools :
+### :man_student: Full-time schools :
  - IT technician  
 
-### :man_technologist: Сorrespondence schools :
+### :man_student: Сorrespondence schools :
  - Manual Testing (skillUp)
 
-### :man_technologist: Completed courses on udemy :   
+### :man_student: Completed courses on udemy :   
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
 
-### :man_technologist: Courses in progress on udemy :   
+### :man_student: Courses in progress on udemy :   
  - [GIT Basics][GITBasics]
  - [Design patterns tutorial][Designpatternstutorial] 
  - [Full Stack from zero to professional][FullStackfromzerotoprofessional]
