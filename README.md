@@ -28,6 +28,7 @@
    - HTML5+API  
       > Forms, Canvas, Drag&Drop, Web Storage, Geolocation
    - CSS3  
+      > Grid  
    - JavaScript  
       > DOM, jQuery, Bootstrap
 
