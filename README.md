@@ -21,6 +21,8 @@
            > Adapter, Bridge, Decorator, Facade, Proxi
        - __Behavioral patterns__  
            > Chain of responsibility, Template method, Observer
+       - __Anti-pattern__
+           > Service Locator
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
 ---
@@ -52,10 +54,10 @@
 ### :man_student: Completed courses on udemy :   
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
- - [Express course CSS Grid][ExpresscourseCSSGrid]
-
+ - [Express course CSS Grid][ExpresscourseCSSGrid]  
+ - [GIT Basics][GITBasics]  
+ 
 ### :man_student: Courses in progress on udemy :   
- - [GIT Basics][GITBasics]
  - [Design patterns tutorial][Designpatternstutorial] 
  - [Full Stack from zero to professional][FullStackfromzerotoprofessional]
 
