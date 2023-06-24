@@ -15,8 +15,8 @@
        - __Fundamental patterns__  
            > Property container  
        - __Creational patterns__  
-           > Simple Factory, Factory Method, Abstract Factory, Builder, Prototype, Service Locator, Dependency Injection
-           > Singleton,  
+           > Simple Factory, Factory Method, Abstract Factory, Builder, Prototype, Service Locator  
+           > Singleton,  Dependency Injection  
        - __Structural patterns__  
            > Adapter, Bridge, Decorator, Facade, Proxi
        - __Behavioral patterns__  
