@@ -18,7 +18,7 @@
            > Simple Factory, Factory Method, Abstract Factory, Builder, Prototype, Service Locator  
            > Singleton,  Dependency Injection  
        - __Structural patterns__  
-           > Adapter, Bridge, Decorator, Facade, Proxi
+           > Adapter, Bridge, Decorator, Facade, Proxi, Composite
        - __Behavioral patterns__  
            > Chain of responsibility, Template method, Observer
            
