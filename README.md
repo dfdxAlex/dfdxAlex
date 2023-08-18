@@ -30,8 +30,9 @@
       > Forms, Canvas, Drag&Drop, Web Storage, Geolocation
    - CSS3  
       > Grid, 
-   - CSS3, Bootstrap
-      > Grid  
+   - CSS3
+      > Grid
+      > Bootstrap  
    - JavaScript  
       > DOM, jQuery
 
