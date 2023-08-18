@@ -39,6 +39,8 @@
 ***
 [myproject]:http://amatorded.amatordd.webd.pro/
 
+[My Pet Project][myproject]
+
 [designpatterns]:https://www.udemy.com/share/106K6c3@IWNt1X0SbUPvbwQ_4Fb7Id6XN4JOa-2ElxJ-X1ZdtKtAcF54IYzey5jLVocr2Z7d_w==/
 [FullJavaScriptcourse]:https://www.udemy.com/share/107AvU3@qA145oOEug7wYNaPr_zIoi18d-mBPmxeMiwOn9vyF-ZPN0eAnaJlm26CEFnbULikYQ==/
 [ExpresscourseCSSGrid]:https://www.udemy.com/share/102CF93@okJwu0r6VEHip_HDkKiEaAd_6K3zuXEE_6zkT3BUf_-KdSdWYJ76xhlqU8lTMPM0QQ==/
