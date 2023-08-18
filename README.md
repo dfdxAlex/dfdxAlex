@@ -31,7 +31,7 @@
    - CSS3  
       > Grid, 
    - CSS3
-      > Grid
+      > Grid  
       > Bootstrap  
    - JavaScript  
       > DOM, jQuery
