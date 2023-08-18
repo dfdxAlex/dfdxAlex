@@ -29,14 +29,11 @@
    - HTML5+API  
       > Forms, Canvas, Drag&Drop, Web Storage, Geolocation
    - CSS3  
-      > Grid, Bootstrap
+      > Grid, 
    - JavaScript  
       > DOM, jQuery
 
-***  
-
-[myproject]:http://amatorded.amatordd.webd.pro/  
-[My Project][myproject]
+***
 
 [designpatterns]:https://www.udemy.com/share/106K6c3@IWNt1X0SbUPvbwQ_4Fb7Id6XN4JOa-2ElxJ-X1ZdtKtAcF54IYzey5jLVocr2Z7d_w==/
 [FullJavaScriptcourse]:https://www.udemy.com/share/107AvU3@qA145oOEug7wYNaPr_zIoi18d-mBPmxeMiwOn9vyF-ZPN0eAnaJlm26CEFnbULikYQ==/
