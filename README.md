@@ -35,7 +35,8 @@
       > DOM, jQuery
 
 ***
-[myproject]:http://amatorded.amatordd.webd.pro/
+<!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
+ [myproject]:http://amatorded.pl
 
 ## [My Pet Project][myproject]
 
