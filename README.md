@@ -20,7 +20,8 @@
        - __Structural patterns__  
            > Adapter, Bridge, Decorator, Facade, Proxi, Composite
        - __Behavioral patterns__  
-           > Chain of responsibility, Template method, Observer
+           > Chain of responsibility, Template method, Observer,
+             Interpretator, Visitor, Command
            
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
