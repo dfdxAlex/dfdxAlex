@@ -38,7 +38,7 @@
 ***
 <!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
  [myproject]:http://amatorded.pl
- [quest]:https://dfdxalex.github.io/Interactive_story/public/content
+ [quest]:https://dfdxalex.github.io/Interactive_story/public
 
 ## [My Pet Project][myproject]  
 
