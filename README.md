@@ -38,10 +38,13 @@
 ***
 <!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
  [myproject]:http://amatorded.pl
+ [quest]:https://dfdxalex.github.io/Interactive_story/public/content
 
 ## [My Pet Project][myproject]  
 
 ### __[Website][myproject]__    
+
+### __[Quest - Nostalgia for HTML][myproject]__
 
 ***
 
