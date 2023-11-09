@@ -39,12 +39,15 @@
 <!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
  [myproject]:http://amatorded.pl
  [quest]:https://dfdxalex.github.io/Interactive_story/public
+ [navcontrolcenter]:https://github.com/dfdxAlex/NavbarPhp.git
 
 ## [My Pet Project][myproject]  
 
 ### __[Website][myproject]__    
 
 ### __[Quest - Nostalgia for HTML][quest]__
+
+### __[PHP-NavControlCenter][navcontrolcenter]__
 
 ***
 
