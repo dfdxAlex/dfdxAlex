@@ -40,6 +40,7 @@
  [myproject]:http://amatorded.pl
  [quest]:https://dfdxalex.github.io/Interactive_story/public
  [navcontrolcenter]:https://github.com/dfdxAlex/NavbarPhp.git
+ [calculator]:https://github.com/dfdxAlex/Calculator.git
 
 ## [My Pet Project][myproject]  
 
@@ -47,7 +48,9 @@
 
 ### __[Quest - Nostalgia for HTML][quest]__
 
-### __[PHP-NavControlCenter][navcontrolcenter]__
+### __[PHP-NavControlCenter][navcontrolcenter]__  
+
+### __[Calculator - for test Pattern Interpreter][calculator]__
 
 ***
 
