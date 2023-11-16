@@ -11,7 +11,7 @@
 - I am a programmer. Main programming language - PHP. In the latest projects I use standards SOLID.
    - __PHP7.4/8__
    - __OOP__
-   - __Design pattern__
+   - __Design pattern__  
    -- __Already studied design patterns.__
            
 - Gradually study and implement design patterns in projects.
