@@ -12,16 +12,7 @@
    - __PHP7.4/8__
    - __OOP__
    - __Design pattern__
-       - __Fundamental patterns__  
-           > Property container  
-       - __Creational patterns__  
-           > Simple Factory, Factory Method, Abstract Factory, Builder, Prototype, Service Locator  
-           > Singleton,  Dependency Injection  
-       - __Structural patterns__  
-           > Adapter, Bridge, Decorator, Facade, Proxi, Composite
-       - __Behavioral patterns__  
-           > Chain of responsibility, Template method, Observer,
-             Interpretator, Visitor, Command
+   -- __Already studied design patterns.__
            
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
