@@ -6,13 +6,15 @@
 <img src="https://komarev.com/ghpvc/?username=dfdxAlex&style=for-the-badge&color=blue"/>
 </div>
 
+[alreadystudieddesignpatterns]:https://github.com/dfdxAlex/pattern
+
 ### :man_technologist: About Me :
 - I live in Wroclaw, Poland. 
 - I am a programmer. Main programming language - PHP. In the latest projects I use standards SOLID.
    - __PHP7.4/8__
    - __OOP__
    - __Design pattern__  
-     - [__Already studied design patterns.__]
+     - [__Already studied design patterns.__][alreadystudieddesignpatterns]
            
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
