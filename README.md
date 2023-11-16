@@ -12,7 +12,7 @@
    - __PHP7.4/8__
    - __OOP__
    - __Design pattern__  
-   -- __Already studied design patterns.__
+     - __Already studied design patterns.__
            
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
