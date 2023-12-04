@@ -57,6 +57,8 @@
 
 [FullStackfromzerotoprofessional]:https://www.udemy.com/share/101vfE3@3EJkDPwW78ZGK0cSTGba65o1g_GHvHhCKRZr9V_l3UsWIPWXRTftvgyNhNepnaIFFQ==/
 
+[linkcertyficatefullstack]:https://www.linkedin.com/posts/oleksandr-ishchuk_udemy-course-completion-certificate-activity-7137159721278431232-iUCk?utm_source=share&utm_medium=member_desktop
+
 ### :man_student: Full-time schools :
  - IT technician  
 
@@ -68,6 +70,7 @@
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
  - [Full Stack from zero to professional][FullStackfromzerotoprofessional]
+   -[Certificate][linkcertyficatefullstack]
 
 ### :man_student: Courses in progress on udemy :   
  - [Design patterns tutorial][Designpatternstutorial] 
