@@ -69,7 +69,7 @@
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
- - [Full Stack from zero to professional][FullStackfromzerotoprofessional] [+Certificate][linkcertyficatefullstack]
+ - [Full Stack from zero to professional][FullStackfromzerotoprofessional] [  +Link to the certificate][linkcertyficatefullstack]
 
 ### :man_student: Courses in progress on udemy :   
  - [Design patterns tutorial][Designpatternstutorial] 
