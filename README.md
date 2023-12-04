@@ -59,13 +59,13 @@
 
 [linkcertyficatefullstack]:https://www.linkedin.com/posts/oleksandr-ishchuk_udemy-course-completion-certificate-activity-7137159721278431232-iUCk?utm_source=share&utm_medium=member_desktop
 
-### :man_student: Full-time schools :
+### Full-time schools :
  - IT technician  
 
-### :man_student: Сorrespondence schools :
+### Сorrespondence schools :
  - Manual Testing (skillUp)
 
-### :man_student: Completed courses on udemy :   
+### Completed courses on udemy :   
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
