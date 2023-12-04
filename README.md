@@ -76,5 +76,10 @@
 ### Courses in progress on udemy :   
  - [Design patterns tutorial][Designpatternstutorial] 
 
+### Books in the process of study:  
+ - "HTML5 for Professionals" by Juan Diego Gosse  
+ - "Symfony 5. Quick Start"
+ - "PHP. Objects, Patterns, and Programming Practices" by Matt Zandstra
+
 
 
