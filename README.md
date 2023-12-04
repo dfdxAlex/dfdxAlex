@@ -71,7 +71,7 @@
  - [Express course CSS Grid][ExpresscourseCSSGrid]
  - [Full Stack from zero to professional][FullStackfromzerotoprofessional] [  +Link to the certificate][linkcertyficatefullstack]
 
-### :man_student: Courses in progress on udemy :   
+### Courses in progress on udemy :   
  - [Design patterns tutorial][Designpatternstutorial] 
 
 
