@@ -8,14 +8,16 @@
 
 [alreadystudieddesignpatterns]:https://github.com/dfdxAlex/pattern
 
-### :man_technologist: About Me :
+### About Me :
 - I live in Wroclaw, Poland. 
 - I am a programmer. Main programming language - PHP. In the latest projects I use standards SOLID.
    - __PHP7.4/8__
    - __OOP__
    - __Design pattern__  
      - [__Already studied design patterns.__][alreadystudieddesignpatterns]
-           
+   - __Python__  
+     - __Django__
+        
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
 ---
@@ -26,7 +28,7 @@
       > Grid  
       > Bootstrap  
    - JavaScript  
-      > DOM, jQuery
+      > DOM, jQuery, React
 
 ***
 <!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
