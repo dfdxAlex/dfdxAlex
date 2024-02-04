@@ -73,7 +73,7 @@
  - [Design patterns][designpatterns]
  - [Full JavaScript course][FullJavaScriptcourse] 
  - [Express course CSS Grid][ExpresscourseCSSGrid]
- - [Full Stack from zero to professional][FullStackfromzerotoprofessional] [  +Link to the certificate][linkcertyficatefullstack]
+ - [Full Stack from zero to professional][linkcertyficatefullstack]
  - [Docker][dockerlink]
 
 ### Courses in progress on udemy :   
