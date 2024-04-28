@@ -16,7 +16,9 @@
    - __Design pattern__  
      - [__Already studied design patterns.__][alreadystudieddesignpatterns]
    - __Python__  
-     - __Django__
+     - __Django__  
+   - __PHP__
+     - __Symfony__
         
 - Gradually study and implement design patterns in projects.
 - To work with tables in my projects I use technology MySQL.  
