@@ -36,8 +36,11 @@
  [quest]:https://dfdxalex.github.io/Interactive_story/public
  [navcontrolcenter]:https://github.com/dfdxAlex/NavbarPhp.git
  [calculator]:https://github.com/dfdxAlex/Calculator.git
+ [notebook]:https://github.com/dfdxAlex/notebook
 
 ## [My Pet Project][myproject]  
+
+## __[NoteBook][notebook]__
 
 ### __[Website][myproject]__    
 
