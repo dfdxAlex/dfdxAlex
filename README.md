@@ -34,7 +34,7 @@
 
 ***
 <!-- [myproject]:http://amatorded.amatordd.webd.pro/ -->
- [myproject]:http://amatorded.pl
+ [myproject]:amatordd.webd.pro
  [quest]:https://dfdxalex.github.io/Interactive_story/public
  [navcontrolcenter]:https://github.com/dfdxAlex/NavbarPhp.git
  [calculator]:https://github.com/dfdxAlex/Calculator.git
