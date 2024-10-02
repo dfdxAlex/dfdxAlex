@@ -33,7 +33,7 @@
       > DOM, jQuery, React
 
 ***
- [myproject]:http://amatorded.amatordd.webd.pro/
+ [myproject]:https://amatordd.webd.pro/
  <!-- [myproject]:amatordd.webd.pro -->
  [quest]:https://dfdxalex.github.io/Interactive_story/public
  [navcontrolcenter]:https://github.com/dfdxAlex/NavbarPhp.git
